@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wanderlyitexto
+ *
+ */
+module Interface {
+}
